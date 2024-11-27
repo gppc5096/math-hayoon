@@ -1,4 +1,4 @@
-# 서현이와 함께 떠나는 수학나라 여행 - To Do List
+# 하윤이와 함께 떠나는 수학나라 여행 - To Do List
 
 ## 1단계: 프로젝트 초기 설정
 - [x] Create React App 프로젝트 생성 완료 (npx create-react-app .)

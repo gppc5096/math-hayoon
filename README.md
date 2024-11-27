@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# 하윤이와 함께 떠나는 수학나라 여행
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 초등학교 3학년과 4학년을 대상으로 한 수학 학습 웹 애플리케이션입니다. 주 개발자는 '할아버지'이며, 사용자는 손녀 '정하윤'입니다. 학습 콘텐츠는 초등학교 수학교과 과정을 기반으로 구성하며, 할아버지의 사랑과 응원이 담긴 메시지를 포함합니다.
+
+## 주요 기능
+1. **학습 콘텐츠 구성**
+   - 초등학교 1학년부터 6학년까지 수학 필수 학습내용 제공.
+   - 카테고리별로 학습 내용을 분류.
+
+2. **문제 풀이 시스템**
+   - 문제 랜덤 출제 기능.
+   - 학습에 동기부여를 줄 수 있는 포인트 및 보상 시스템.
+
+3. **사용자 인터페이스**
+   - 아이콘, 애니메이션, 사운드 시스템 적용.
+   - 초등학생이 쉽게 사용할 수 있는 직관적이고 귀여운 디자인.
+
+4. **추가 기능**
+   - 하윤이가 할아버지에게 이메일 전송 기능.
+   - 가족 응원 메시지 남기기 기능.
+
+## 개발 환경 및 기술 스택
+- **Frontend Framework**: Remix
+- **Styling**: Tailwind CSS
+- **Font**: Gowun Dodum
+- **Icons & Animations**: Lottie Files, FontAwesome
+- **Email Service**: Nodemailer + Gmail SMTP
+- **Database**: local storage
+- **Hosting**: Vercel
 
 ## Available Scripts
 
@@ -68,4 +94,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# esther-study
